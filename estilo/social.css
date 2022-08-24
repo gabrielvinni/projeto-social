@@ -19,6 +19,7 @@ img {
 }
 
 a {
+    margin: -3px;
     display: block;
     background: #212121;
     color: white;
